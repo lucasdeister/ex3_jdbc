@@ -1,0 +1,42 @@
+mai. 01, 2023 11:46:12 AM jdbc.BancoDados main
+INFO: Log de informação
+mai. 01, 2023 11:46:12 AM jdbc.BancoDados main
+WARNING: Log de aviso
+mai. 01, 2023 11:46:12 AM jdbc.BancoDados main
+SEVERE: Log severo
+mai. 01, 2023 11:46:12 AM jdbc.BancoDados main
+INFO: 
+ O programa foi iniciado
+mai. 01, 2023 11:46:43 AM jdbc.BancoDados main
+INFO: Log de informação
+mai. 01, 2023 11:46:43 AM jdbc.BancoDados main
+WARNING: Log de aviso
+mai. 01, 2023 11:46:43 AM jdbc.BancoDados main
+SEVERE: Log severo
+mai. 01, 2023 11:46:43 AM jdbc.BancoDados main
+INFO: 
+ O programa foi iniciado
+mai. 01, 2023 11:46:54 AM jdbc.BancoDados main
+INFO: Log de informação
+mai. 01, 2023 11:46:54 AM jdbc.BancoDados main
+WARNING: Log de aviso
+mai. 01, 2023 11:46:54 AM jdbc.BancoDados main
+SEVERE: Log severo
+mai. 01, 2023 11:46:54 AM jdbc.BancoDados main
+INFO: 
+ O programa foi iniciado
+mai. 01, 2023 11:48:49 AM jdbc.BancoDados main
+INFO: 
+ O programa foi iniciado
+mai. 01, 2023 11:51:11 AM jdbc.BancoDados main
+INFO: 
+ O programa foi iniciado
+mai. 01, 2023 11:51:49 AM jdbc.BancoDados main
+INFO: 
+ O programa foi iniciado, escolha uma opção para conectar com o BD
+mai. 01, 2023 11:51:56 AM jdbc.BancoDados main
+INFO: 
+ O programa foi iniciado, escolha uma opção para conectar com o BD:
+mai. 01, 2023 12:04:34 PM jdbc.BancoDados main
+INFO: 
+ O programa foi iniciado, escolha uma opção para conectar com o BD:
